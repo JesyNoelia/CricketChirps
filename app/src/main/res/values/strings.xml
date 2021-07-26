@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CricketChirps</string>
+
+    <string name="cantoGrillo">¿Sabías que puedes determinar la temperatura exterior contando la cantidad de chirridos que hace el grillo? Sólo debes contar cuantos chirridos realiza en 25 segundos e ingresar dicho número en el seiguiente cuadro</string>
+    <string name="numeroCantos">Número de chirridos en 25s.</string>
+    <string name="Calculo">Calcular temperatura</string>
+</resources>
